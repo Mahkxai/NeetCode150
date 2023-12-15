@@ -1,2 +1,2 @@
 # NeetCode150
-My solutions to NeetCode150 problem set.
+Solutions to the NeetCode150 problems in Kotlin!
